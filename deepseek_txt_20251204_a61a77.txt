@@ -3,7 +3,6 @@ openai
 pandas
 reportlab
 python-docx
-spacy
 pillow
 matplotlib
 plotly
